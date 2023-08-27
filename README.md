@@ -1,2 +1,2 @@
 # ImersaoALURA
-Tivemos que fazer uma api para filmes
+Primeiro projeto em java com a escola de tecnologia ALURA
